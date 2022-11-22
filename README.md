@@ -1,6 +1,6 @@
 ## API para Artigos/Noticias
 
-Api com autenticação, gerenciamento de artigos e noticias, com upload de imagens e videos
+Api com autenticação, gerenciamento de artigos e noticias, upload de imagens e videos
 
 ## Tecs
 
